@@ -17,6 +17,7 @@ import { ExemploServicos1Component } from './exemplo-servicos1/exemplo-servicos1
 import { ExemploServicos2Component } from './exemplo-servicos2/exemplo-servicos2.component';
 import { CicloVidaComponent } from './ciclo-vida/ciclo-vida.component';
 import { CicloVidaPaiComponent } from './ciclo-vida-pai/ciclo-vida-pai.component';
+import { CardComponent } from './card/card.component';
 
 
 
@@ -35,7 +36,8 @@ import { CicloVidaPaiComponent } from './ciclo-vida-pai/ciclo-vida-pai.component
     ExemploServicos1Component,
     ExemploServicos2Component,
     CicloVidaComponent,
-    CicloVidaPaiComponent
+    CicloVidaPaiComponent,
+    CardComponent
   ],
   imports: [
     BrowserModule,
